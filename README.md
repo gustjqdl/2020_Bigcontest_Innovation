@@ -1,5 +1,7 @@
 # Location-Selection-Analysis
 
+### *Updating ....
+
 ## Intro 
 - The above analysis is part of the 2020 Big Contest Innovation Idea section, which is a project to present service ideas and to present proof of concept (POC) through new data analysis and modeling following the Corona virus.
 
