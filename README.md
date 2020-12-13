@@ -81,8 +81,11 @@ Reason for Clsustering analysis is that We wanted to konw time or days When we u
  #
  
  ## Analysis and Using for Business 
+ - We can the Clustering result and Scoring.  
+ - By using the first and second analysis method, We can also make Business strategies and 
  ![4](https://user-images.githubusercontent.com/63186859/102010734-5f12a680-3d83-11eb-97a1-074f8ec82366.png)
 
  
  
  
+## Thnak you for reading the page. 
