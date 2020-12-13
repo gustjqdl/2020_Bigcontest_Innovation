@@ -91,4 +91,4 @@ Reason for Clsustering analysis is that We wanted to konw time or days When we u
  
  
  
-## Thnak you for reading the page. 
+## Thank you for reading the page. 
