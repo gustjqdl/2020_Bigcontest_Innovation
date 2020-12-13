@@ -48,7 +48,7 @@
 ## Analysis Flow 
 We tried to analysis data for 2 perspectives.  
 
-####first, Clustering  
+#### first, Clustering  
 
 Reason for Clsustering analysis is that We wanted to konw time or days When we utilize the Unmanned functions.  
 
@@ -65,7 +65,7 @@ Reason for Clsustering analysis is that We wanted to konw time or days When we u
  
  #
  
- ####Second, Scoring for Unit.  
+ #### Second, Scoring for Unit.  
  
  By scoring Convenience store, We could apprehend the list of Convenience Store tha is the best to change Unmanned.  
  
